@@ -1,8 +1,8 @@
 //Author : Abdelrahman Reda Fadl
-// version 1
-//Date 12/8/2019
-//Mail : boodycat09@gmail.com
-//Faculty of Computers and Arterial Intelligence
+//version 1
+//date 12/8/2019
+//e-mail : boodycat09@gmail.com
+
 
 import java.util.ArrayList;
 import java.util.Collections;
